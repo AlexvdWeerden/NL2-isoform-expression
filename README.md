@@ -4,7 +4,9 @@ Contained within this GitHub repository is the code used during the Honours proj
 
 The code is split into folders based on the programming language used and the function of the code. The code is in html files. The quality report following bioinformatic analysis, generated using MultiQC, is also included.
 
-html files can be downloaded or viewed online using the following website:
+To download all files, click on 'Code' (green button) -> 'Download ZIP'.
+
+To view html files online, using the following website:
 
 https://htmlpreview.github.io/
 
