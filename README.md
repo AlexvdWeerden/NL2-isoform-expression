@@ -6,8 +6,5 @@ The code is split into folders based on the programming language used and the fu
 
 To download all files, click on 'Code' (green button) -> 'Download ZIP'.
 
-To view html files online, using the following website:
-
-https://htmlpreview.github.io/
 
 
